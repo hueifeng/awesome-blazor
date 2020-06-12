@@ -25,6 +25,8 @@
 
 ## Tooling
 
+- [BlazorRepl](https://github.com/BlazorRepl/BlazorRepl) - Blazor REPL is a platform for writing, compiling, executing and sharing Blazor components entirely in the browser. 
+
 ## Community documentation
 
 ## Books
