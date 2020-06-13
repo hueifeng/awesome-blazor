@@ -21,6 +21,16 @@
 
 ## Libraries
 
+- [Blazor Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - SVG Charts for Blazor.
+- [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) - Material Design components for Blazor. A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
+- [BlazorFluentUI](https://github.com/BlazorFluentUI/BlazorFluentUI) - Simple port of FluenUI/Office Fabric React components and style to Blazor. 
+- [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) - GridView component for Blazor.
+- [Blazored.Modal](https://github.com/Blazored/Modal) -  A JavaScript free modal library for Blazor and Razor Components applications.
+- [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) - A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+
+
+
+
 ## Samples and Tutorials
 
 ## Tooling
